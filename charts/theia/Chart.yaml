@@ -1,0 +1,7 @@
+apiVersion: v2
+name: theia-andre
+description: Chart Theia IDE
+type: application
+version: 0.1.0
+appVersion: "1.16.0"
+icon: "https://miro.medium.com/max/1400/1*gqsdLm5hY2zmWSg09C-ahA.png"
